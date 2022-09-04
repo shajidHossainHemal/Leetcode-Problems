@@ -25,3 +25,6 @@ This repository is dedicated to solved problems from Leetcode Study Plans.
 |---|---|---|---|
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](https://github.com/shajidHossainHemal/Leetcode-Problems/blob/master/Leetcode%20Data%20Structure%20Study%20Plan/Day%204/ReshapeTheMatrix.cpp) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](https://github.com/shajidHossainHemal/Leetcode-Problems/blob/master/Leetcode%20Data%20Structure%20Study%20Plan/Day%204/PascalsTriangle.cpp) | Easy |
+
+***
+
