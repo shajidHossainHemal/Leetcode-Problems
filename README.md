@@ -28,3 +28,14 @@ This repository is dedicated to solved problems from Leetcode Study Plans.
 
 ***
 
+## Leetcode 75 Level 1 Study Plan
+
+### Day 1 - Prefix Sum
+| # | Title | Solution | Difficulty |
+|---|---|---|---|
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1) | [C++](https://github.com/shajidHossainHemal/Leetcode-Problems/blob/master/Leetcode%2075%20Study%20Plan/Day%201/RunningSumof1DArray.cpp) | Easy |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1) | [C++](https://github.com/shajidHossainHemal/Leetcode-Problems/blob/master/Leetcode%2075%20Study%20Plan/Day%201/FindPivotIndex.cpp) | Easy |
+
+
+
+
