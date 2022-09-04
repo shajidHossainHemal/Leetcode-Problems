@@ -1,8 +1,8 @@
 # Leetcode-Problems
 This repository is dedicated to solved problems from Leetcode Study Plans.
 
-# Leetcode Data Structure 1 Study Plan
-## Day 1 - Array
+## Leetcode Data Structure 1 Study Plan
+### Day 1 - Array
 
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
