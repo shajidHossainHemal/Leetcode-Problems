@@ -19,3 +19,9 @@ This repository is dedicated to solved problems from Leetcode Study Plans.
 |---|---|---|---|
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](https://github.com/shajidHossainHemal/Leetcode-Problems/blob/master/Leetcode%20Data%20Structure%20Study%20Plan/Day%203/IntersectionOfTwoArrays2.cpp) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](https://github.com/shajidHossainHemal/Leetcode-Problems/blob/master/Leetcode%20Data%20Structure%20Study%20Plan/Day%203/BestTimeToBuyAndSellStock.cpp) | Easy |
+
+### Day 3 - Array 
+| # | Title | Solution | Difficulty |
+|---|---|---|---|
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](https://github.com/shajidHossainHemal/Leetcode-Problems/blob/master/Leetcode%20Data%20Structure%20Study%20Plan/Day%204/ReshapeTheMatrix.cpp) | Easy |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](https://github.com/shajidHossainHemal/Leetcode-Problems/blob/master/Leetcode%20Data%20Structure%20Study%20Plan/Day%204/PascalsTriangle.cpp) | Easy |
